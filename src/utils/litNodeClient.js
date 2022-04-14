@@ -1,3 +1,4 @@
+import fetch from "cross-fetch";
 import {
   fromString as uint8arrayFromString,
   toString as uint8arrayToString,

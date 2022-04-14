@@ -6,7 +6,7 @@ const go = async () => {
     bundle: true,
     minify: true,
     sourcemap: true,
-    outfile: "build/index.node.js",
+    outfile: "build/index.js",
     loader: {
       ".svg": "dataurl",
       ".css": "text",

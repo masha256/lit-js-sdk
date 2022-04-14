@@ -1,3 +1,4 @@
+import Blob from "cross-blob";
 import nacl from "tweetnacl";
 import naclUtil from "tweetnacl-util";
 import {

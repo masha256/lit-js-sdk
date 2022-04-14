@@ -1,3 +1,4 @@
+import fetch from "cross-fetch";
 import JSZip from "jszip";
 import {
   fromString as uint8arrayFromString,
